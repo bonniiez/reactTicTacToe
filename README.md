@@ -1,3 +1,8 @@
+## Demo
+Link to demo app [here](https://bonniiez.github.io/reactTicTacToe/)
+
+<hr/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
