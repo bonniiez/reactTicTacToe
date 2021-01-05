@@ -1,4 +1,7 @@
+# Tic-tac-toe Game
+
 ## Demo
+
 Link to demo app [here](http://bonniiez.github.io/react-Tic-Tac-Toe/)
 
 <hr/>
